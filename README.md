@@ -40,6 +40,7 @@ The Mono switch restricts the instrument to use only one voice. In Mono mode, pr
 
 ## TODO
 
+* Send mute messages to [thispoly~] to minimize CPU impact.
 * Add a volume control for mixing in the raw impulse sound.
 * Add a resonance control for the impulse LPF.
 * Toggle for weird/normal Mono behavior.
