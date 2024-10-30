@@ -12,7 +12,9 @@ If you just want to download and install the device, then go to the [frozen/](ht
 
 ### Changelog
 
-* [0.0.1](https://github.com/zsteinkamp/m4l-KS-Synth/raw/main/frozen/KS-Synth-0.0.1.amxd) - 2022-04-29 - Initial release.
+- 2024-10-29 [v2](https://github.com/zsteinkamp/m4l-ChiasticSlide/releases/download/v2/KS-Synth-v2.amxd) - Add non-blocking telemetry ping on load. Does not send any identifying information, only the plugin name, the local computer name, type of computer, and CPU type. I just want to see which plugins are used the most.
+
+- 2022-04-29 [v1](https://github.com/zsteinkamp/m4l-KS-Synth/raw/main/frozen/KS-Synth-v1.amxd) - Initial release.
 
 ## Usage
 
