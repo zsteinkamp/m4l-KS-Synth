@@ -2,9 +2,9 @@
 
 This is a Max For Live instrument that implements a polyphonic Karplus-Strong synthesizer.
 
-The essence of Karplus-Strong synthesis is that a note-on triggers a sound impulse that is sent to a delay/feedback (echo) line. The note pitch controls the delay time, which is fast enough to be interpreted by our brains as a tone or pitch rather than distinct echoes.
-
 ![The Interface](images/device.png)
+
+The essence of Karplus-Strong synthesis is that a note-on triggers a sound impulse that is sent to a delay/feedback (echo) line. The note pitch controls the delay time, which is fast enough to be interpreted by our brains as a tone or pitch rather than distinct echoes.
 
 ## Installation / Setup
 
